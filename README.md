@@ -80,7 +80,7 @@ Kerberos protocol. It's a popular protocol. It's built into Windows and a lot of
 
 
 
-## ⚠ The project implementation.
+## ⚠ The project implementation
 
 ## Part 1️⃣
 
